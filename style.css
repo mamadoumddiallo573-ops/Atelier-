@@ -91,21 +91,25 @@ header{
 
 }
 .Logo1{
+  color: #ff5831;
     margin-top: -50px;
     position:absolute;
     margin-left: 55px;
 }
 .Lgo2{
+  color: #ff5831;
     margin-top: -50px;
     position:absolute;
     margin-left: 55px;
 }
 .lgo1{
+  color: #ff5831;
     margin-top: -50px;
     position:absolute;
     margin-left: 35px;
 }
 .focus{
+  color: #ff5831;
   margin-top:-50px;
     position:absolute;
     margin-left: 80px;
@@ -114,6 +118,7 @@ header{
 
 }
 .wf{
+  color: #ff5831;
   margin-top:-50px;
     position:absolute;
     margin-left: 80px;
@@ -122,6 +127,7 @@ header{
 
 }
 .tel{
+  color: #ff5831;
   margin-top:-50px;
     position:absolute;
     margin-left: 80px;
@@ -129,6 +135,7 @@ header{
     transform: scale( 2.5);
 }
 .cr{
+  color: #ff5831;
   margin-top:-75px;
     position:absolute;
     margin-left: 100px;
@@ -136,6 +143,7 @@ header{
     transform: scale( 2.5);
 }
 .tout{
+  color: #ff5831;
   margin-top:-75px;
     position:absolute;
     margin-left: 100px;
@@ -144,6 +152,7 @@ header{
 
 }
 .tel{
+  color: #ff5831;
   margin-top:-75px;
     position:absolute;
     margin-left: 100px;
@@ -151,6 +160,7 @@ header{
     transform: scale( 2.5);
 }
 .T5{
+  color: #ff5831;
   margin-top:-75px;
     position:absolute;
     margin-left: 100px;
@@ -159,6 +169,7 @@ header{
 }
 
 .icone{
+    color: #ff5831;
      margin-top: -50px;
     position:absolute;
     margin-left: 80px;
@@ -173,13 +184,16 @@ body {
 
 }
 .hm{
+  color: #ff5831;
   margin-top: -75px;
     position:absolute;
     margin-left: 100px;
     padding: 15px;
     transform: scale( 2.5);
+    
 }
 .message{
+  color: #ff5831;
    margin-top: -75px;
     position:absolute;
     margin-left: 100px;
@@ -198,7 +212,7 @@ section {
   padding: 60px 0;
 }
 
-/* ===== SECTION TITLE ===== */
+
 .section-title {
   text-align: center;
   margin-bottom: 40px;
